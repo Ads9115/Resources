@@ -10,7 +10,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
    - C++
    - C
    - Go (Golang)
-2. [Game Development](#game-development)
+2. [Game Development and 3D](#game-development-and-3d)
    - Blender
    - Godot
    - Unity
@@ -82,7 +82,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 
 ---
 
-## Game Development
+## Game Development and 3D
 
 ### Blender
 - **Beginner Tutorial:** [Beginner Blender Tutorial (2026) - Blender Guru](https://youtu.be/z-Xl9tGqH14?si=5fPopA-uYi7emhF2)
