@@ -85,33 +85,32 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 ## Game Development and 3D
 
 ### Blender
-- **Beginner Tutorial:** [Beginner Blender Tutorial (2026) - Blender Guru](https://youtu.be/z-Xl9tGqH14?si=5fPopA-uYi7emhF2)
-- **Modelling:** [Blender Beginner Modelling Tutorial - Part 1 - Blender Guru](https://youtu.be/Hf2esGA7vCc?si=MnHkRdcn8xRNrApV)
-- **Sculpting:** [Learn Sculpting (Playlist) - Grant Abbitt](https://www.youtube.com/watch?v=K7AJVx0H3Ec&list=PLn3ukorJv4vvJM7tvjet4PP-LVjJx13oB)
-- **Hard Surface Modelling:** [Hard-Surface Modeling in Blender for Beginners (Full Course) - CG Boost](https://youtu.be/zxhaCD-Zlfw?si=zZijz0Pzbo_ximfB)
-- **Low Poly:** [Beginner Blender 4.2 Tutorial: Modelling a Low-Poly Well - Grant Abbitt](https://youtu.be/QPh8h0hWkg0?si=ZDrkgbrDefaIzuIB)
-- **Animations:** [Animation for Beginners! (Blender Tutorial) - Ryan King Art](https://youtu.be/CBJp82tlR3M?si=vms2iq6bMoh6R_i9)
+- Beginner Tutorial: [Beginner Blender Tutorial (2026) - Blender Guru](https://youtu.be/z-Xl9tGqH14?si=5fPopA-uYi7emhF2)
+- Modelling: [Blender Beginner Modelling Tutorial - Part 1 - Blender Guru](https://youtu.be/Hf2esGA7vCc?si=MnHkRdcn8xRNrApV)
+- Sculpting: [Learn Sculpting (Playlist) - Grant Abbitt](https://www.youtube.com/watch?v=K7AJVx0H3Ec&list=PLn3ukorJv4vvJM7tvjet4PP-LVjJx13oB)
+- Hard Surface Modelling:** [Hard-Surface Modeling in Blender for Beginners (Full Course) - CG Boost](https://youtu.be/zxhaCD-Zlfw?si=zZijz0Pzbo_ximfB)
+- Low Poly: [Beginner Blender 4.2 Tutorial: Modelling a Low-Poly Well - Grant Abbitt](https://youtu.be/QPh8h0hWkg0?si=ZDrkgbrDefaIzuIB)
+- Animations: [Animation for Beginners! (Blender Tutorial) - Ryan King Art](https://youtu.be/CBJp82tlR3M?si=vms2iq6bMoh6R_i9)
 
 ### Godot 
-- **Website**: [Official documentation](https://docs.godotengine.org/en/stable/index.html)
-- **Video Course**: [Brackeys' Beginner Tutorial](https://youtu.be/LOhfqjmasi0)
-- **Text Course**: [Godot Docs Getting Started](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
-- **Practice Projects**:  [2D Project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html#prerequisites) [3D Project](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html)
+- Website: [Official documentation](https://docs.godotengine.org/en/stable/index.html)
+- Video Course: [Brackeys' Beginner Tutorial](https://youtu.be/LOhfqjmasi0)
+- Text Course: [Godot Docs Getting Started](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
+- Practice Projects:  [2D Project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html#prerequisites) [3D Project](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html)
 
 ### Unity
-- **Documentation:** [Unity Official Documentation](https://docs.unity3d.com/Manual/)
-- **Video Course:** [Learn Unity by making a game - Code Monkey](https://youtu.be/AmGSEH7QcDg?si=USnmegErJMDdTAB3)
-- **C# Basics to Advanced:** [C# Tutorial for Beginners - Code Monkey](https://www.youtube.com/watch?v=pReR6Z9rK-o)
-- **Website:** [Unity Learn](https://learn.unity.com/)
-- **Project Ideas:** [Beginner Project Ideas - Code Monkey](https://unitycodemonkey.com/text.php?v=wejUWjCVW94)
+- Documentation: [Unity Official Documentation](https://docs.unity3d.com/Manual/)
+- Video Course: [Learn Unity by making a game - Code Monkey](https://youtu.be/AmGSEH7QcDg?si=USnmegErJMDdTAB3)
+- C# Basics to Advanced: [C# Tutorial for Beginners - Code Monkey](https://www.youtube.com/watch?v=pReR6Z9rK-o)
+- Website: [Unity Learn](https://learn.unity.com/)
+- Project Ideas: [Beginner Project Ideas - Code Monkey](https://unitycodemonkey.com/text.php?v=wejUWjCVW94)
 
 ### Unreal Engine 5
-- **Documentation:**
+- Documentation:
   - [UE5 Online Learning](https://dev.epicgames.com/community/unreal-engine/learning)
   - [Blueprint Visual Scripting](https://docs.unrealengine.com/5.0/en-US/blueprints-visual-scripting-in-unreal-engine/)
-- **Video Course:** [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course - YouTube](https://www.youtube.com/watch?v=k-zMkzmduqI&list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-)
-- **Complete game Making :**[Making a Horror game](https://youtu.be/fA8ERAgJROs?si=goKVTY-GZfTWWymS)
-- **Website:** [Unreal Engine Official Learning](https://dev.epicgames.com/community/unreal-engine/learning)
+- Video Course: [Unreal Engine 5 Beginner Tutorial - UE5 Starter Course - YouTube](https://www.youtube.com/watch?v=k-zMkzmduqI&list=PLKPWwh_viQMGQkQfKKD5lF96efA3_RWt-)
+- Complete game Making :[Making a Horror game](https://youtu.be/fA8ERAgJROs?si=goKVTY-GZfTWWymS)
 
 **C++ for Game Engine Development and Graphic Programming :**[The Cherno's C++ Tutorial](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) (Highly Recommended!)
 
